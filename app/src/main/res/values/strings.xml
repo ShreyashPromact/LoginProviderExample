@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LoginProviderDemo</string>
+    <string name="demo_info">This demo is using auth0 login provider to authenticate user to upload the image</string>
+
+
+    <!-- INFORMATION THAT NEEDS TO SET -->
+
+    <string name="auth0_token"></string>
+    <string name="auth0_domain"></string>
+    <string name="amazon_url"></string>
+    <string name="amazon_pool_id"></string>
+    <string name="amazon_bucket_name"></string>
+    <string name="amazon_region"></string>
+</resources>
